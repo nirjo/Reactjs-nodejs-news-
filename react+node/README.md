@@ -1,3 +1,4 @@
-# React NodeJS Tutorial
+# React NodeJS 
 
-React+NodeJS tutorial covering React router v4, Redux, MongoDB, JWT
+React+NodeJS 
+React router v4, Redux, MongoDB, JWT
